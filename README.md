@@ -33,7 +33,7 @@ $ docker exec -it mysql bash -l
 
 mysql> select * from task.BILL_STATEMENTS
 
-Si en este caso también se quiere integrar con el ejemplo:
+Si en este caso también se quiere integrar con la primera parte del ejemplo:
 
 https://github.com/diegochavezcarro/billsetuptask
 
